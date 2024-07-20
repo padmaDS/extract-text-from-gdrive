@@ -7,9 +7,13 @@ Here the steps involved:
 3. output would be the text., saving in text document.
 
 # Getting Started
-1. ```python
+1. Install the dependencies
+   ```python
    pip install -r requirements.txt
    ```
+3. Running the Flask Application
+   ```python
+   pip install saving-n-giving-text.py
    
 # Dependencies/Technologies
 
