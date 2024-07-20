@@ -11,7 +11,7 @@ Here the steps involved:
    ```python
    pip install -r requirements.txt
    ```
-3. Running the Flask Application
+3. Running the main Application
    ```python
    pip install saving-n-giving-text.py
    
